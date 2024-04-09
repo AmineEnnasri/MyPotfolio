@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Agence BlaBlaBla",
+    "description": "Site vitrine pour l'agence de communication interne : Agence Blablabla.",
+    "date": "2023",
+    "techno": "Angular, Typescript",
+    "picture": "Agenceblablabla/AgenceBlablabla.png",
+    "link": "https://agenceblablabla.fr"
+  },
+  {
+    "title": "Portfolio",
+    "description": "Portfolio Amine ENNASRI",
+    "date": "2024",
+    "techno": "HTML, CSS, Javascript",
+    "picture": "Portfolio/Portfolio.png",
+    "link": "https://amineennasri.000webhostapp.com"
+  }
+]
